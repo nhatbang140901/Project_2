@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(104, 109, 109);
+}
+
+p{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(217, 215, 212);
+    
+}
+
+#cn{
+    text-align: center;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 40px 120px;
+    border-radius: 20px;
+    
+}
+ 
+#weight{
+    font-size: 60px;
+    background-color: rgb(155, 213, 250);
+    padding: 30px 120px;
+    border-radius: 20px;
+    display: inline-block;
+    width: 300px;
+    color: rgb(67, 67, 196);
+}   
+
+
+#sl{
+    display: flex; 
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#demsp1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+#demsp2{
+    text-align: center;
+    font-size: 30px;
+    color: orange;
+}
+
+#demsp3{
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+}
